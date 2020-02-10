@@ -1,0 +1,29 @@
+{
+  "name": "request-promise-logger",
+  "version": "1.0.0",
+  "description": "Wrapper on request-promise to log request and response details",
+  "main": "lib/index",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "request",
+    "request-promise"
+  ],
+  "author": "Kiran",
+  "license": "ISC"
+}
