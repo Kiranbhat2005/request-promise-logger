@@ -1,14 +1,14 @@
 {
   "name": "request-promise-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper on request-promise to log request and response details",
   "main": "lib/index",
   "directories": {
     "lib": "lib"
   },
   "dependencies": {
-    "request": "^2.88.0",
-    "request-promise": "^4.2.5"
+    "request-promise": "^4.2.5",
+    "request": "^2.88.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com"
+    "url": "https://github.com/Kiranbhat2005/request-promise-logger.git"
   },
   "keywords": [
     "log",
